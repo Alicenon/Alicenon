@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Object Oriented Programming with Java and in parallel Vue**
 
-- 💬 Ask me about **vue, javascript, css, html and java**
+- 💬 Ask me about **vue, javascript, css, html, java and .NET(C#)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
