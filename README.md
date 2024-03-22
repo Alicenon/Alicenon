@@ -30,3 +30,7 @@
 ## portfolio!
 
 [![web-site](https://img.shields.io/badge/view-website-pink?style=for-the-badge&logo=github&logoColor=white)](https://alicenon.github.io/portafolio/)
+
+## aws Project!
+
+[![demo-eyewear-ecommerce-react](https://img.shields.io/badge/view-website-pink?style=for-the-badge&logo=github&logoColor=white)](http://demo-eyewear-ecommerce-react-bucket.s3-website-us-east-1.amazonaws.com)
