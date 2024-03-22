@@ -4,7 +4,7 @@
 
 - 🌱 I am currently learning **Object-oriented programming and software development with .NET and cloud computing**
 
-- 💬 Ask me about **vue, angular, javascript, Django, .NET(C#), AZ-204: Developing Solutions for Microsoft Azure and AZ-400 Designing and Implementing Microsoft DevOps Solutions**
+- 💬 Ask me about **React, angular, javascript, Django(python), .NET(C#), Microsoft Azure, Amazon web services and DevOps **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
