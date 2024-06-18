@@ -2,7 +2,7 @@
 <h3 align="center" >A passionate software developer from Spain</h3>
 
 
-- 🌱 I am currently learning **Object-oriented programming and software development with .NET and cloud computing**
+- 🌱 I am currently learning **software development with .NET and cloud computing**
 
 - 💬 Ask me about **React, angular, javascript, Django(python), .NET(C#), Microsoft Azure, Amazon web services and DevOps **
 
